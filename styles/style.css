@@ -1,0 +1,9 @@
+.first-icon ,.second-icon{
+    background-color: #ffc0cbe0;
+
+}
+@media screen and (max-width:576px) {
+    .left-side{
+        text-center;
+    }
+}
